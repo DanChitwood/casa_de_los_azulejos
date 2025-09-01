@@ -2,7 +2,7 @@
 # House of tiles
 
 ![alt](https://github.com/DanChitwood/casa_de_los_azulejos/blob/main/casa_de_los_azulejos.jpg)
-![alt](https://github.com/DanChitwood/casa_de_los_azulejos/blob/main/hilbert_animation.gif)
+![alt](https://github.com/DanChitwood/casa_de_los_azulejos/blob/main/hilbert_subplots.png)
 
 ## Introduction
 The Casa de los Azulejos in Mexico City is a historical landmark, famous for its magnificent tiled facade. According to legend, a child's father told him: "Hijo, tu nunca irás lejos, ni harás casa de azulejos" (Son, you will never go far, nor will you make a house of tiles). The son proved him wrong by covering his home in exquisite blue and white Talavera tiles. This tale reflects the deep history of azulejos (tin-glazed ceramic tiles, from the Arabic az-zulayj الزليج, "polished stone") in Mexico. The Azulejo techniques arrived in Spain from North Africa with the expansion of Islamic rule and then to the Americas, where it blended with Indigenous ceramic art.
